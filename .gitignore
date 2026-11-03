@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py
+[Tt]rash/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
