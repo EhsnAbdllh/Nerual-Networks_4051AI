@@ -1,3 +1,5 @@
+**NOTE**: the screenshots are stored at `/results`
+
 # Task 1
 
 ## First Step
